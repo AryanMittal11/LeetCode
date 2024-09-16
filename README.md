@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AryanMittal11/LeetCode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/AryanMittal11/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/AryanMittal11/LeetCode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/AryanMittal11/LeetCode/tree/master/0136-single-number) |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AryanMittal11/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/AryanMittal11/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
