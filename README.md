@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/AryanMittal11/LeetCode/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/AryanMittal11/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/AryanMittal11/LeetCode/tree/master/0136-single-number) |
+| [0792-binary-search](https://github.com/AryanMittal11/LeetCode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/AryanMittal11/LeetCode/tree/master/0861-flipping-an-image) |
 ## Two Pointers
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/AryanMittal11/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/AryanMittal11/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/AryanMittal11/LeetCode/tree/master/0069-sqrtx) |
+| [0792-binary-search](https://github.com/AryanMittal11/LeetCode/tree/master/0792-binary-search) |
 ## Math
 |  |
 | ------- |
