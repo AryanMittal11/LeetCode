@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/AryanMittal11/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-binary-search](https://github.com/AryanMittal11/LeetCode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/AryanMittal11/LeetCode/tree/master/0861-flipping-an-image) |
+| [0890-lemonade-change](https://github.com/AryanMittal11/LeetCode/tree/master/0890-lemonade-change) |
 | [0941-sort-array-by-parity](https://github.com/AryanMittal11/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/AryanMittal11/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AryanMittal11/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/AryanMittal11/LeetCode/tree/master/0278-first-bad-version) |
+## Greedy
+|  |
+| ------- |
+| [0890-lemonade-change](https://github.com/AryanMittal11/LeetCode/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
