@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/AryanMittal11/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AryanMittal11/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/AryanMittal11/LeetCode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
+| [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/AryanMittal11/LeetCode/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [3429-special-array-i](https://github.com/AryanMittal11/LeetCode/tree/master/3429-special-array-i) |
 ## Two Pointers
 |  |
