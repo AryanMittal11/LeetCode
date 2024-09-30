@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/AryanMittal11/LeetCode/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/AryanMittal11/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [3188-find-champion-i](https://github.com/AryanMittal11/LeetCode/tree/master/3188-find-champion-i) |
+| [3373-maximum-prime-difference](https://github.com/AryanMittal11/LeetCode/tree/master/3373-maximum-prime-difference) |
 | [3429-special-array-i](https://github.com/AryanMittal11/LeetCode/tree/master/3429-special-array-i) |
 ## Two Pointers
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/AryanMittal11/LeetCode/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AryanMittal11/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AryanMittal11/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [3373-maximum-prime-difference](https://github.com/AryanMittal11/LeetCode/tree/master/3373-maximum-prime-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/AryanMittal11/LeetCode/tree/master/1137-height-checker) |
+## Number Theory
+|  |
+| ------- |
+| [3373-maximum-prime-difference](https://github.com/AryanMittal11/LeetCode/tree/master/3373-maximum-prime-difference) |
 <!---LeetCode Topics End-->
