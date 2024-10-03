@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/AryanMittal11/LeetCode/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/AryanMittal11/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [3188-find-champion-i](https://github.com/AryanMittal11/LeetCode/tree/master/3188-find-champion-i) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/AryanMittal11/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3373-maximum-prime-difference](https://github.com/AryanMittal11/LeetCode/tree/master/3373-maximum-prime-difference) |
 | [3429-special-array-i](https://github.com/AryanMittal11/LeetCode/tree/master/3429-special-array-i) |
 ## Two Pointers
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/AryanMittal11/LeetCode/tree/master/0861-flipping-an-image) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/AryanMittal11/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 ## Binary Search
 |  |
 | ------- |
