@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/AryanMittal11/LeetCode/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AryanMittal11/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1524-string-matching-in-an-array](https://github.com/AryanMittal11/LeetCode/tree/master/1524-string-matching-in-an-array) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/AryanMittal11/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/AryanMittal11/LeetCode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/AryanMittal11/LeetCode/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/AryanMittal11/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
