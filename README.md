@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AryanMittal11/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/AryanMittal11/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2836-neither-minimum-nor-maximum](https://github.com/AryanMittal11/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
+| [2845-find-the-value-of-the-partition](https://github.com/AryanMittal11/LeetCode/tree/master/2845-find-the-value-of-the-partition) |
 | [2892-check-if-array-is-good](https://github.com/AryanMittal11/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [3188-find-champion-i](https://github.com/AryanMittal11/LeetCode/tree/master/3188-find-champion-i) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/AryanMittal11/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/AryanMittal11/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AryanMittal11/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2836-neither-minimum-nor-maximum](https://github.com/AryanMittal11/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
+| [2845-find-the-value-of-the-partition](https://github.com/AryanMittal11/LeetCode/tree/master/2845-find-the-value-of-the-partition) |
 | [2892-check-if-array-is-good](https://github.com/AryanMittal11/LeetCode/tree/master/2892-check-if-array-is-good) |
 ## Interactive
 |  |
