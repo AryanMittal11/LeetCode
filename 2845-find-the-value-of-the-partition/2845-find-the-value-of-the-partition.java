@@ -4,11 +4,12 @@ class Solution {
         int ans = Integer.MAX_VALUE;
 
         for (int i = 1; i < nums.length; i++) {
-            if (nums[i] - nums[i - 1] < ans) {
-                ans = nums[i] - nums[i - 1];
+            int sub = nums[i] - nums[i - 1];
+            if (sub < ans) {
+                ans = sub;
             }
         }
-        
+
         return ans;
     }
 }
