@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1911-minimum-elements-to-add-to-form-a-given-sum](https://github.com/AryanMittal11/LeetCode/tree/master/1911-minimum-elements-to-add-to-form-a-given-sum) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/AryanMittal11/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2181-smallest-index-with-equal-value](https://github.com/AryanMittal11/LeetCode/tree/master/2181-smallest-index-with-equal-value) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/AryanMittal11/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AryanMittal11/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/AryanMittal11/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2836-neither-minimum-nor-maximum](https://github.com/AryanMittal11/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/AryanMittal11/LeetCode/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/AryanMittal11/LeetCode/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AryanMittal11/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/AryanMittal11/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Math
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/AryanMittal11/LeetCode/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AryanMittal11/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/AryanMittal11/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/AryanMittal11/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AryanMittal11/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2836-neither-minimum-nor-maximum](https://github.com/AryanMittal11/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2845-find-the-value-of-the-partition](https://github.com/AryanMittal11/LeetCode/tree/master/2845-find-the-value-of-the-partition) |
