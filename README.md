@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3188-find-champion-i](https://github.com/AryanMittal11/LeetCode/tree/master/3188-find-champion-i) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/AryanMittal11/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3373-maximum-prime-difference](https://github.com/AryanMittal11/LeetCode/tree/master/3373-maximum-prime-difference) |
+| [3415-check-if-grid-satisfies-conditions](https://github.com/AryanMittal11/LeetCode/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3429-special-array-i](https://github.com/AryanMittal11/LeetCode/tree/master/3429-special-array-i) |
 | [3582-find-indices-of-stable-mountains](https://github.com/AryanMittal11/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
 ## Two Pointers
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/AryanMittal11/LeetCode/tree/master/0861-flipping-an-image) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/AryanMittal11/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [3188-find-champion-i](https://github.com/AryanMittal11/LeetCode/tree/master/3188-find-champion-i) |
+| [3415-check-if-grid-satisfies-conditions](https://github.com/AryanMittal11/LeetCode/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## Simulation
 |  |
 | ------- |
