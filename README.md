@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/AryanMittal11/LeetCode/tree/master/0861-flipping-an-image) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/AryanMittal11/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AryanMittal11/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2470-removing-stars-from-a-string](https://github.com/AryanMittal11/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/AryanMittal11/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 ## Binary Search
 |  |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/AryanMittal11/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1524-string-matching-in-an-array](https://github.com/AryanMittal11/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/AryanMittal11/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2470-removing-stars-from-a-string](https://github.com/AryanMittal11/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3195-separate-black-and-white-balls](https://github.com/AryanMittal11/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## String Matching
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/AryanMittal11/LeetCode/tree/master/0682-baseball-game) |
+| [2470-removing-stars-from-a-string](https://github.com/AryanMittal11/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Recursion
 |  |
 | ------- |
