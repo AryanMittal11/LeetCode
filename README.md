@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/AryanMittal11/LeetCode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AryanMittal11/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1677-matrix-diagonal-sum](https://github.com/AryanMittal11/LeetCode/tree/master/1677-matrix-diagonal-sum) |
+| [1839-decode-xored-array](https://github.com/AryanMittal11/LeetCode/tree/master/1839-decode-xored-array) |
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/AryanMittal11/LeetCode/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1911-minimum-elements-to-add-to-form-a-given-sum](https://github.com/AryanMittal11/LeetCode/tree/master/1911-minimum-elements-to-add-to-form-a-given-sum) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/AryanMittal11/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/AryanMittal11/LeetCode/tree/master/0136-single-number) |
 | [0861-flipping-an-image](https://github.com/AryanMittal11/LeetCode/tree/master/0861-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AryanMittal11/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1839-decode-xored-array](https://github.com/AryanMittal11/LeetCode/tree/master/1839-decode-xored-array) |
 ## Matrix
 |  |
 | ------- |
