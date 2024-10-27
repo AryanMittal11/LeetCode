@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/AryanMittal11/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AryanMittal11/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/AryanMittal11/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
+| [2737-row-with-maximum-ones](https://github.com/AryanMittal11/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [2836-neither-minimum-nor-maximum](https://github.com/AryanMittal11/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2845-find-the-value-of-the-partition](https://github.com/AryanMittal11/LeetCode/tree/master/2845-find-the-value-of-the-partition) |
 | [2892-check-if-array-is-good](https://github.com/AryanMittal11/LeetCode/tree/master/2892-check-if-array-is-good) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/AryanMittal11/LeetCode/tree/master/0861-flipping-an-image) |
 | [1677-matrix-diagonal-sum](https://github.com/AryanMittal11/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/AryanMittal11/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
+| [2737-row-with-maximum-ones](https://github.com/AryanMittal11/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [3188-find-champion-i](https://github.com/AryanMittal11/LeetCode/tree/master/3188-find-champion-i) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/AryanMittal11/LeetCode/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## Simulation
