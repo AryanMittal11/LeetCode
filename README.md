@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2845-find-the-value-of-the-partition](https://github.com/AryanMittal11/LeetCode/tree/master/2845-find-the-value-of-the-partition) |
 | [2892-check-if-array-is-good](https://github.com/AryanMittal11/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [3188-find-champion-i](https://github.com/AryanMittal11/LeetCode/tree/master/3188-find-champion-i) |
+| [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/AryanMittal11/LeetCode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/AryanMittal11/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3373-maximum-prime-difference](https://github.com/AryanMittal11/LeetCode/tree/master/3373-maximum-prime-difference) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/AryanMittal11/LeetCode/tree/master/3415-check-if-grid-satisfies-conditions) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/AryanMittal11/LeetCode/tree/master/0861-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AryanMittal11/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1839-decode-xored-array](https://github.com/AryanMittal11/LeetCode/tree/master/1839-decode-xored-array) |
+| [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/AryanMittal11/LeetCode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 ## Matrix
 |  |
 | ------- |
