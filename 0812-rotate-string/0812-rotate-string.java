@@ -1,9 +1,6 @@
 class Solution {
     public boolean rotateString(String s, String goal) {
-        StringBuilder sb = new StringBuilder();
-        for (int i = 0; i < s.length(); i++) {
-            sb.append(s.charAt(i));
-        }
+        StringBuilder sb = new StringBuilder(s);
         int i = 0;
         while (i < s.length()) {
             sb.append(sb.charAt(0));
