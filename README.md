@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1839-decode-xored-array](https://github.com/AryanMittal11/LeetCode/tree/master/1839-decode-xored-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/AryanMittal11/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/AryanMittal11/LeetCode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
+| [3394-minimum-array-end](https://github.com/AryanMittal11/LeetCode/tree/master/3394-minimum-array-end) |
 ## Matrix
 |  |
 | ------- |
