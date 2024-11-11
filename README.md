@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AryanMittal11/LeetCode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AryanMittal11/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/AryanMittal11/LeetCode/tree/master/0682-baseball-game) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/AryanMittal11/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/AryanMittal11/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/AryanMittal11/LeetCode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/AryanMittal11/LeetCode/tree/master/0861-flipping-an-image) |
