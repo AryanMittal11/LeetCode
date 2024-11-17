@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/AryanMittal11/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AryanMittal11/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/AryanMittal11/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
+| [2529-range-product-queries-of-powers](https://github.com/AryanMittal11/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2727-number-of-senior-citizens](https://github.com/AryanMittal11/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2737-row-with-maximum-ones](https://github.com/AryanMittal11/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [2836-neither-minimum-nor-maximum](https://github.com/AryanMittal11/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AryanMittal11/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1839-decode-xored-array](https://github.com/AryanMittal11/LeetCode/tree/master/1839-decode-xored-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/AryanMittal11/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
+| [2529-range-product-queries-of-powers](https://github.com/AryanMittal11/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/AryanMittal11/LeetCode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3394-minimum-array-end](https://github.com/AryanMittal11/LeetCode/tree/master/3394-minimum-array-end) |
 ## Matrix
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1940-maximum-xor-for-each-query](https://github.com/AryanMittal11/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/AryanMittal11/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
+| [2529-range-product-queries-of-powers](https://github.com/AryanMittal11/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 ## Counting Sort
 |  |
 | ------- |
