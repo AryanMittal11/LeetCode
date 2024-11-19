@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/AryanMittal11/LeetCode/tree/master/1137-height-checker) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AryanMittal11/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AryanMittal11/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/AryanMittal11/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/AryanMittal11/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/AryanMittal11/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/AryanMittal11/LeetCode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AryanMittal11/LeetCode/tree/master/0217-contains-duplicate) |
 | [0782-jewels-and-stones](https://github.com/AryanMittal11/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AryanMittal11/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/AryanMittal11/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AryanMittal11/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2892-check-if-array-is-good](https://github.com/AryanMittal11/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/AryanMittal11/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/AryanMittal11/LeetCode/tree/master/1137-height-checker) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/AryanMittal11/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Number Theory
 |  |
 | ------- |
