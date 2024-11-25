@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AryanMittal11/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2470-removing-stars-from-a-string](https://github.com/AryanMittal11/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/AryanMittal11/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3447-clear-digits](https://github.com/AryanMittal11/LeetCode/tree/master/3447-clear-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/AryanMittal11/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/AryanMittal11/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/AryanMittal11/LeetCode/tree/master/3195-separate-black-and-white-balls) |
+| [3447-clear-digits](https://github.com/AryanMittal11/LeetCode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/AryanMittal11/LeetCode/tree/master/3451-string-compression-iii) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/AryanMittal11/LeetCode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## String Matching
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/AryanMittal11/LeetCode/tree/master/0682-baseball-game) |
 | [2470-removing-stars-from-a-string](https://github.com/AryanMittal11/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [3447-clear-digits](https://github.com/AryanMittal11/LeetCode/tree/master/3447-clear-digits) |
 ## Recursion
 |  |
 | ------- |
