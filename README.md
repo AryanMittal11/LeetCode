@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/AryanMittal11/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AryanMittal11/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AryanMittal11/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/AryanMittal11/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AryanMittal11/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2892-check-if-array-is-good](https://github.com/AryanMittal11/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/AryanMittal11/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/AryanMittal11/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/AryanMittal11/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AryanMittal11/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/AryanMittal11/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/AryanMittal11/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2470-removing-stars-from-a-string](https://github.com/AryanMittal11/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2580-circular-sentence](https://github.com/AryanMittal11/LeetCode/tree/master/2580-circular-sentence) |
