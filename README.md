@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/AryanMittal11/LeetCode/tree/master/0890-lemonade-change) |
 | [1911-minimum-elements-to-add-to-form-a-given-sum](https://github.com/AryanMittal11/LeetCode/tree/master/1911-minimum-elements-to-add-to-form-a-given-sum) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/AryanMittal11/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2817-minimum-cost-to-make-all-characters-equal](https://github.com/AryanMittal11/LeetCode/tree/master/2817-minimum-cost-to-make-all-characters-equal) |
 | [3195-separate-black-and-white-balls](https://github.com/AryanMittal11/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/AryanMittal11/LeetCode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Prefix Sum
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/AryanMittal11/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2580-circular-sentence](https://github.com/AryanMittal11/LeetCode/tree/master/2580-circular-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/AryanMittal11/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [2817-minimum-cost-to-make-all-characters-equal](https://github.com/AryanMittal11/LeetCode/tree/master/2817-minimum-cost-to-make-all-characters-equal) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/AryanMittal11/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/AryanMittal11/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3447-clear-digits](https://github.com/AryanMittal11/LeetCode/tree/master/3447-clear-digits) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/AryanMittal11/LeetCode/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/AryanMittal11/LeetCode/tree/master/0392-is-subsequence) |
+| [2817-minimum-cost-to-make-all-characters-equal](https://github.com/AryanMittal11/LeetCode/tree/master/2817-minimum-cost-to-make-all-characters-equal) |
 ## Geometry
 |  |
 | ------- |
