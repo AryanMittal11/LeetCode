@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/AryanMittal11/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/AryanMittal11/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AryanMittal11/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/AryanMittal11/LeetCode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/AryanMittal11/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/AryanMittal11/LeetCode/tree/master/0455-assign-cookies) |
 | [0861-flipping-an-image](https://github.com/AryanMittal11/LeetCode/tree/master/0861-flipping-an-image) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/AryanMittal11/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/AryanMittal11/LeetCode/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/AryanMittal11/LeetCode/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AryanMittal11/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/AryanMittal11/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AryanMittal11/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AryanMittal11/LeetCode/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/AryanMittal11/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/AryanMittal11/LeetCode/tree/master/0217-contains-duplicate) |
 | [0782-jewels-and-stones](https://github.com/AryanMittal11/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AryanMittal11/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
