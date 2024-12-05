@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AryanMittal11/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AryanMittal11/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/AryanMittal11/LeetCode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/AryanMittal11/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/AryanMittal11/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/AryanMittal11/LeetCode/tree/master/0455-assign-cookies) |
 | [0861-flipping-an-image](https://github.com/AryanMittal11/LeetCode/tree/master/0861-flipping-an-image) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/AryanMittal11/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/AryanMittal11/LeetCode/tree/master/0682-baseball-game) |
 | [2470-removing-stars-from-a-string](https://github.com/AryanMittal11/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/AryanMittal11/LeetCode/tree/master/3447-clear-digits) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AryanMittal11/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/AryanMittal11/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/AryanMittal11/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/AryanMittal11/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Heap (Priority Queue)
 |  |
@@ -269,4 +272,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/AryanMittal11/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/AryanMittal11/LeetCode/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/AryanMittal11/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/AryanMittal11/LeetCode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
