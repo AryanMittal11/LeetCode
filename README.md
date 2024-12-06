@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-count-prefixes-of-a-given-string](https://github.com/AryanMittal11/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/AryanMittal11/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2529-range-product-queries-of-powers](https://github.com/AryanMittal11/LeetCode/tree/master/2529-range-product-queries-of-powers) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AryanMittal11/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2727-number-of-senior-citizens](https://github.com/AryanMittal11/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2737-row-with-maximum-ones](https://github.com/AryanMittal11/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [2836-neither-minimum-nor-maximum](https://github.com/AryanMittal11/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/AryanMittal11/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/AryanMittal11/LeetCode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AryanMittal11/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AryanMittal11/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Math
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AryanMittal11/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AryanMittal11/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AryanMittal11/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AryanMittal11/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2892-check-if-array-is-good](https://github.com/AryanMittal11/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/AryanMittal11/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Sorting
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/AryanMittal11/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AryanMittal11/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AryanMittal11/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AryanMittal11/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2836-neither-minimum-nor-maximum](https://github.com/AryanMittal11/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2845-find-the-value-of-the-partition](https://github.com/AryanMittal11/LeetCode/tree/master/2845-find-the-value-of-the-partition) |
 | [2892-check-if-array-is-good](https://github.com/AryanMittal11/LeetCode/tree/master/2892-check-if-array-is-good) |
@@ -182,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/AryanMittal11/LeetCode/tree/master/0890-lemonade-change) |
 | [1911-minimum-elements-to-add-to-form-a-given-sum](https://github.com/AryanMittal11/LeetCode/tree/master/1911-minimum-elements-to-add-to-form-a-given-sum) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/AryanMittal11/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AryanMittal11/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2817-minimum-cost-to-make-all-characters-equal](https://github.com/AryanMittal11/LeetCode/tree/master/2817-minimum-cost-to-make-all-characters-equal) |
 | [3195-separate-black-and-white-balls](https://github.com/AryanMittal11/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/AryanMittal11/LeetCode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
