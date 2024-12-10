@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/AryanMittal11/LeetCode/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/AryanMittal11/LeetCode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/AryanMittal11/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0143-reorder-list](https://github.com/AryanMittal11/LeetCode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AryanMittal11/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/AryanMittal11/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/AryanMittal11/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/AryanMittal11/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/AryanMittal11/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/AryanMittal11/LeetCode/tree/master/0682-baseball-game) |
 | [2470-removing-stars-from-a-string](https://github.com/AryanMittal11/LeetCode/tree/master/2470-removing-stars-from-a-string) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AryanMittal11/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/AryanMittal11/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/AryanMittal11/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AryanMittal11/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/AryanMittal11/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/AryanMittal11/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/AryanMittal11/LeetCode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AryanMittal11/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0143-reorder-list](https://github.com/AryanMittal11/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/AryanMittal11/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AryanMittal11/LeetCode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
