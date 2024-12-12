@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2508-maximum-sum-of-an-hourglass](https://github.com/AryanMittal11/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2529-range-product-queries-of-powers](https://github.com/AryanMittal11/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AryanMittal11/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/AryanMittal11/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2727-number-of-senior-citizens](https://github.com/AryanMittal11/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2737-row-with-maximum-ones](https://github.com/AryanMittal11/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [2836-neither-minimum-nor-maximum](https://github.com/AryanMittal11/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/AryanMittal11/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AryanMittal11/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2470-removing-stars-from-a-string](https://github.com/AryanMittal11/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/AryanMittal11/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/AryanMittal11/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3447-clear-digits](https://github.com/AryanMittal11/LeetCode/tree/master/3447-clear-digits) |
 ## Binary Search
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0506-relative-ranks](https://github.com/AryanMittal11/LeetCode/tree/master/0506-relative-ranks) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AryanMittal11/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/AryanMittal11/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Sliding Window
 |  |
 | ------- |
