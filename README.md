@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/AryanMittal11/LeetCode/tree/master/3429-special-array-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/AryanMittal11/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AryanMittal11/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AryanMittal11/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3582-find-indices-of-stable-mountains](https://github.com/AryanMittal11/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
 ## Two Pointers
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/AryanMittal11/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/AryanMittal11/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3447-clear-digits](https://github.com/AryanMittal11/LeetCode/tree/master/3447-clear-digits) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AryanMittal11/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AryanMittal11/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [3373-maximum-prime-difference](https://github.com/AryanMittal11/LeetCode/tree/master/3373-maximum-prime-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AryanMittal11/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AryanMittal11/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/AryanMittal11/LeetCode/tree/master/0506-relative-ranks) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AryanMittal11/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/AryanMittal11/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AryanMittal11/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Sliding Window
 |  |
 | ------- |
