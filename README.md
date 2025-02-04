@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1839-decode-xored-array](https://github.com/AryanMittal11/LeetCode/tree/master/1839-decode-xored-array) |
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/AryanMittal11/LeetCode/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1911-minimum-elements-to-add-to-form-a-given-sum](https://github.com/AryanMittal11/LeetCode/tree/master/1911-minimum-elements-to-add-to-form-a-given-sum) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/AryanMittal11/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/AryanMittal11/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/AryanMittal11/LeetCode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/AryanMittal11/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
