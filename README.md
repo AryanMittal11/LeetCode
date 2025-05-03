@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/AryanMittal11/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/AryanMittal11/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/AryanMittal11/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/AryanMittal11/LeetCode/tree/master/0202-happy-number) |
