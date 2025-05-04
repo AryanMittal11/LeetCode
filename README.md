@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AryanMittal11/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/AryanMittal11/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/AryanMittal11/LeetCode/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/AryanMittal11/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/AryanMittal11/LeetCode/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AryanMittal11/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/AryanMittal11/LeetCode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/AryanMittal11/LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/AryanMittal11/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/AryanMittal11/LeetCode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/AryanMittal11/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/AryanMittal11/LeetCode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AryanMittal11/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/AryanMittal11/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
