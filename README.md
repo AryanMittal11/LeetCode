@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/AryanMittal11/LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/AryanMittal11/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/AryanMittal11/LeetCode/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/AryanMittal11/LeetCode/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/AryanMittal11/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/AryanMittal11/LeetCode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AryanMittal11/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -353,4 +354,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/AryanMittal11/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/AryanMittal11/LeetCode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
