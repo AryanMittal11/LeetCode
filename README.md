@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/AryanMittal11/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/AryanMittal11/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/AryanMittal11/LeetCode/tree/master/0069-sqrtx) |
+| [0168-excel-sheet-column-title](https://github.com/AryanMittal11/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AryanMittal11/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/AryanMittal11/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/AryanMittal11/LeetCode/tree/master/0202-happy-number) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AryanMittal11/LeetCode/tree/master/0020-valid-parentheses) |
+| [0168-excel-sheet-column-title](https://github.com/AryanMittal11/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AryanMittal11/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0392-is-subsequence](https://github.com/AryanMittal11/LeetCode/tree/master/0392-is-subsequence) |
 | [0782-jewels-and-stones](https://github.com/AryanMittal11/LeetCode/tree/master/0782-jewels-and-stones) |
