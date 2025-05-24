@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2845-find-the-value-of-the-partition](https://github.com/AryanMittal11/LeetCode/tree/master/2845-find-the-value-of-the-partition) |
 | [2892-check-if-array-is-good](https://github.com/AryanMittal11/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [3188-find-champion-i](https://github.com/AryanMittal11/LeetCode/tree/master/3188-find-champion-i) |
+| [3194-find-words-containing-character](https://github.com/AryanMittal11/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/AryanMittal11/LeetCode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3321-type-of-triangle](https://github.com/AryanMittal11/LeetCode/tree/master/3321-type-of-triangle) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/AryanMittal11/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/AryanMittal11/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2817-minimum-cost-to-make-all-characters-equal](https://github.com/AryanMittal11/LeetCode/tree/master/2817-minimum-cost-to-make-all-characters-equal) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/AryanMittal11/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3194-find-words-containing-character](https://github.com/AryanMittal11/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/AryanMittal11/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3447-clear-digits](https://github.com/AryanMittal11/LeetCode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/AryanMittal11/LeetCode/tree/master/3451-string-compression-iii) |
