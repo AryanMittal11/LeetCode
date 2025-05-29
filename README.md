@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AryanMittal11/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AryanMittal11/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AryanMittal11/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/AryanMittal11/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/AryanMittal11/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/AryanMittal11/LeetCode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/AryanMittal11/LeetCode/tree/master/0506-relative-ranks) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/AryanMittal11/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/AryanMittal11/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/AryanMittal11/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/AryanMittal11/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/AryanMittal11/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/AryanMittal11/LeetCode/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/AryanMittal11/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/AryanMittal11/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/AryanMittal11/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/AryanMittal11/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0861-flipping-an-image](https://github.com/AryanMittal11/LeetCode/tree/master/0861-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AryanMittal11/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1839-decode-xored-array](https://github.com/AryanMittal11/LeetCode/tree/master/1839-decode-xored-array) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AryanMittal11/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/AryanMittal11/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/AryanMittal11/LeetCode/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/AryanMittal11/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/AryanMittal11/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/AryanMittal11/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/AryanMittal11/LeetCode/tree/master/0792-binary-search) |
