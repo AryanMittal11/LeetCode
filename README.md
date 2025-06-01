@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/AryanMittal11/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AryanMittal11/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/AryanMittal11/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/AryanMittal11/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3195-separate-black-and-white-balls](https://github.com/AryanMittal11/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Bit Manipulation
 |  |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1911-minimum-elements-to-add-to-form-a-given-sum](https://github.com/AryanMittal11/LeetCode/tree/master/1911-minimum-elements-to-add-to-form-a-given-sum) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/AryanMittal11/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AryanMittal11/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/AryanMittal11/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2817-minimum-cost-to-make-all-characters-equal](https://github.com/AryanMittal11/LeetCode/tree/master/2817-minimum-cost-to-make-all-characters-equal) |
 | [3195-separate-black-and-white-balls](https://github.com/AryanMittal11/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/AryanMittal11/LeetCode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/AryanMittal11/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2580-circular-sentence](https://github.com/AryanMittal11/LeetCode/tree/master/2580-circular-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/AryanMittal11/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/AryanMittal11/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2817-minimum-cost-to-make-all-characters-equal](https://github.com/AryanMittal11/LeetCode/tree/master/2817-minimum-cost-to-make-all-characters-equal) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/AryanMittal11/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3194-find-words-containing-character](https://github.com/AryanMittal11/LeetCode/tree/master/3194-find-words-containing-character) |
