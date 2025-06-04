@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/AryanMittal11/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/AryanMittal11/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/AryanMittal11/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/AryanMittal11/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/AryanMittal11/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/AryanMittal11/LeetCode/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/AryanMittal11/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/AryanMittal11/LeetCode/tree/master/0058-length-of-last-word) |
 | [0168-excel-sheet-column-title](https://github.com/AryanMittal11/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AryanMittal11/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/AryanMittal11/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/AryanMittal11/LeetCode/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/AryanMittal11/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/AryanMittal11/LeetCode/tree/master/0678-valid-parenthesis-string) |
