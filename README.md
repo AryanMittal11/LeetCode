@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AryanMittal11/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2892-check-if-array-is-good](https://github.com/AryanMittal11/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/AryanMittal11/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AryanMittal11/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
 |  |
 | ------- |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/AryanMittal11/LeetCode/tree/master/1137-height-checker) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AryanMittal11/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AryanMittal11/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AryanMittal11/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/AryanMittal11/LeetCode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/AryanMittal11/LeetCode/tree/master/3451-string-compression-iii) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/AryanMittal11/LeetCode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AryanMittal11/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String Matching
 |  |
 | ------- |
