@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AryanMittal11/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AryanMittal11/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3582-find-indices-of-stable-mountains](https://github.com/AryanMittal11/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/AryanMittal11/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Two Pointers
 |  |
 | ------- |
