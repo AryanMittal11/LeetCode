@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AryanMittal11/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/AryanMittal11/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/AryanMittal11/LeetCode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/AryanMittal11/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/AryanMittal11/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AryanMittal11/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AryanMittal11/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AryanMittal11/LeetCode/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/AryanMittal11/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0861-flipping-an-image](https://github.com/AryanMittal11/LeetCode/tree/master/0861-flipping-an-image) |
 | [1677-matrix-diagonal-sum](https://github.com/AryanMittal11/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/AryanMittal11/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AryanMittal11/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/AryanMittal11/LeetCode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/AryanMittal11/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/AryanMittal11/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AryanMittal11/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/AryanMittal11/LeetCode/tree/master/0169-majority-element) |
